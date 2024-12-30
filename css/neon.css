@@ -5,6 +5,7 @@
   --main-color: #10cab7;
   --background: #f6f6f6;
   --padding: 60px;
+  --margin: 20px;
 }
 body {
   font-family: "Work Sans", serif;
