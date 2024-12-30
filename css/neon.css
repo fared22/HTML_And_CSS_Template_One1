@@ -211,8 +211,8 @@ header .container img {
 .services .content .serv i {
   color: var(--main-color);
   font-size: 25px;
-  flex-basis:50px;
-  margin: 0px 10px;
+  flex-basis: 50px;
+  margin: 0px 5px;
 }
 .services .content .serv h3 {
   margin: 0 0 20px;
